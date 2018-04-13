@@ -1,0 +1,11 @@
+.idea/
+sta-test-automation.iml
+.settings
+.classpath
+.project
+.factorypath
+target/
+/.apt_generated/
+.factorypath
+.checkstyle
+.springBeans
